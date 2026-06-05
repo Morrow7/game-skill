@@ -1,4 +1,4 @@
 interface:
   display_name: "Light Game UI Style"
-  short_description: "Design simple, relaxed light-theme game interfaces."
-  default_prompt: "Use $light-game-ui-style to design a simple, relaxed, light-toned game interface."
+  short_description: "Design soft light-theme and ethereal game UI."
+  default_prompt: "Use $light-game-ui-style to design a soft, light-toned, ethereal game interface."
