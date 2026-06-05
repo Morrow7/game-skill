@@ -1,0 +1,4 @@
+interface:
+  display_name: "BR Loot Inventory System"
+  short_description: "Design battle royale loot and inventory systems."
+  default_prompt: "Use $br-loot-inventory-system to design a battle royale loot and inventory system."

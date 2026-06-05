@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tactical Battle UI Style"
+  short_description: "Design realistic tactical battle royale UI."
+  default_prompt: "Use $tactical-battle-ui-style to design a realistic tactical battle royale UI."

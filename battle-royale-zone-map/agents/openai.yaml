@@ -1,0 +1,4 @@
+interface:
+  display_name: "Battle Royale Zone Map"
+  short_description: "Design battle royale zone and map systems."
+  default_prompt: "Use $battle-royale-zone-map to design a battle royale zone and map system."

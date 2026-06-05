@@ -1,0 +1,4 @@
+interface:
+  display_name: "BR Sniper Weapon System"
+  short_description: "Design battle royale sniper weapon systems."
+  default_prompt: "Use $br-sniper-weapon-system to design a battle royale sniper weapon system."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tactical Shooter Gunplay"
+  short_description: "Design tactical shooter gunplay feel and rules."
+  default_prompt: "Use $tactical-shooter-gunplay to design tactical shooter gunplay."
