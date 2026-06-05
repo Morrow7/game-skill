@@ -1,0 +1,4 @@
+interface:
+  display_name: "Game Engine Architecture"
+  short_description: "Design and implement game engine architecture."
+  default_prompt: "Use $game-engine-architecture to design or improve a game engine architecture."

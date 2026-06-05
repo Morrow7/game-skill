@@ -1,0 +1,4 @@
+interface:
+  display_name: "Game Quest Module"
+  short_description: "Design and implement reusable game quest systems."
+  default_prompt: "Use $game-quest-module to design and implement a reusable game quest system."

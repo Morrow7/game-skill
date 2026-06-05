@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pixel Game Style"
+  short_description: "Design crisp pixel-art game visuals and UI."
+  default_prompt: "Use $pixel-game-style to design a crisp pixel-art game interface."

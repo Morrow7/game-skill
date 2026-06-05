@@ -1,0 +1,4 @@
+interface:
+  display_name: "Game Skill Module"
+  short_description: "Design and implement reusable game ability systems."
+  default_prompt: "Use $game-skill-module to design and implement a reusable game skill system."

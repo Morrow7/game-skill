@@ -1,0 +1,4 @@
+interface:
+  display_name: "Character NPC Game Style"
+  short_description: "Design character-led NPC game UI and scenes."
+  default_prompt: "Use $character-npc-game-style to design a character-led NPC game interface."

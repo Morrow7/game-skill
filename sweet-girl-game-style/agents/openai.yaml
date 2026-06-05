@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sweet Girl Game Style"
+  short_description: "Design sweet pink, yellow, and white game UI."
+  default_prompt: "Use $sweet-girl-game-style to design a sweet pink, yellow, and white game interface."
